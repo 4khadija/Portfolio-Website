@@ -1,2 +1,2 @@
-# Portfolio-Website
-My official portfolio website.
+# portfolio
+Github Repository for My Official Portfolio
